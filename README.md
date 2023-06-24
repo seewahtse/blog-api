@@ -92,5 +92,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Contact
 
 For any questions or inquiries, please contact seewah.tse@gmail.com
-
-Feel free to customize the sections and add more information as per your project requirements.
