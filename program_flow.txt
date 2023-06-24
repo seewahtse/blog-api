@@ -1,5 +1,3 @@
-Great! Let's start building the Blog API using Flask. Here's a step-by-step guide to help you get started:
-
 1. **Project Setup**:
    - Create a new directory for your project.
    - Initialize a virtual environment to keep your project dependencies isolated.
