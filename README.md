@@ -1,5 +1,3 @@
-Certainly! Here's a template for a README.md file for your project:
-
 # Blog API
 
 Blog API is a simple RESTful API built with Flask and SQLAlchemy that allows users to create, read, update, and delete blog posts.
